@@ -12,7 +12,7 @@ h1 {
   font-family: "Clicker Script", cursive;
   margin: 30px auto;
   text-align: center;
-  color: #545454;
+  color: purple;
   font-size: 3.5rem; }
 
 h3 {
@@ -184,7 +184,7 @@ li {
 /******************** MEDIA QUERIES ********************/
 @media only screen and (min-width: 980px) and (max-width: 1500px) {
   body {
-    background: url("../img/eiffeltowerbg1.jpg") no-repeat;
+    /*background: url("../img/eiffeltowerbg1.jpg") no-repeat;*/
     background-size: contain;
     background-color: #000000; } }
 @media only screen and (min-width: 768px) and (max-width: 980px) {
